@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MiPlayer123, aka Mikul Saravanan, a student and Egleston Scholar at Columbia University 
 - 👀 I’m interested in [AI](https://link.springer.com/article/10.1007/s10462-023-10539-8) and its impact on the world. I also just love making things
-- 🌱 I’m currently learning all things CS. Check out my [maker profile!](https://youtu.be/SejmLAb3-iA)
+- 🌱 I’m currently learning all things CS. Check out my [website](https://www.mikulsaravanan.com/) and [maker profile!](https://youtu.be/SejmLAb3-iA)
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/mikul-saravanan/) | mikul.saravanan@columbia.edu
 
 <!--
